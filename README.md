@@ -6,7 +6,7 @@ Language: Python (v3.7)
 
 Description: Employed AWS cloud service - Textract to engineer text information from pdf documents.
 
-Note: Basic packages applied in this project are json, boto3, time, Document. Parent source code for detecting pages, 
+Note: Basic packages applied in this project are json, boto3, time, Document. Parent source code for detecting blocks, location, pages, 
 words, keys, values, tables, cells, selection elements along with confidence scores pulled from Pluralsight repository.
 
 OVERVIEW:
