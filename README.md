@@ -1,15 +1,15 @@
 # Extracting-Data-From-Pdf
-Extracting data with AWS Textract
-Tool: AWS Textract
+**Extracting data with AWS Textract**
+**Tool:** AWS Textract
 
-Language: Python (v3.7)
+**Language:** Python (v3.7)
 
-Description: Employed AWS cloud service - Textract to engineer text information from pdf documents.
+**Description:** Employed AWS cloud service - Textract to engineer text information from pdf documents.
 
-Note: Basic packages applied in this project are json, boto3, time, Document. Parent source code for detecting blocks, location, pages, 
+**Note:** Basic packages applied in this project are *json, boto3, time, Document*. Parent source code for detecting blocks, location, pages, 
 words, keys, values, tables, cells, selection elements along with confidence scores pulled from Pluralsight repository.
 
-OVERVIEW:
+**OVERVIEW:**
 
 -Textract returns information from text detected in blocks.
 
